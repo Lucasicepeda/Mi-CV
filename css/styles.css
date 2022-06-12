@@ -53,9 +53,14 @@ a:hover{
 
 }
 
+main section h3{
+    margin: 10px 0px;
+    font-size: 24px;
+}
+
 main section div h3{
     margin: 30px;
-    font-size: 22px;
+    font-size: 24px;
 }
 
 main section{
@@ -65,7 +70,9 @@ main section{
     margin: 20px;
     padding: 15px;
 }
-
+.title{
+    font-size: 20px;
+}
 main section ul{
     margin: 10px;
 }
