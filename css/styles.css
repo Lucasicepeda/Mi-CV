@@ -50,7 +50,15 @@ a:hover{
     margin-bottom: 30px;
     box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.0);
     background-color: rgba(103, 103, 103, 0);
+}
 
+section .skill_logos{
+    display: flex;
+    justify-content: space-around;
+}
+
+section .skill_logos img{
+    height: 200px;
 }
 
 main section h3{
